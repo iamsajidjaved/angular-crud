@@ -1,0 +1,21 @@
+{
+  "employees": [
+    {
+      "id": 2,
+      "firstName": "Sameer",
+      "lastName": "Khan",
+      "designation": "Dev2",
+      "phone": "6782",
+      "address": "Lahore2"
+    },
+    {
+      "id": 3,
+      "firstName": "Sajid",
+      "lastName": "Malik",
+      "designation": "Dev3",
+      "contact": "",
+      "address": "Lhr",
+      "phone": "76548"
+    }
+  ]
+}
